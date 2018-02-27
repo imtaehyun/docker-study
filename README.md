@@ -18,3 +18,4 @@
 * [Docker로 애플리케이션 배포하기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter08)
 * [Docker 모니터링하기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter09)
 * [Docker Swarm](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)
+* [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)

@@ -3,8 +3,9 @@
 ## 2018/02/28 준비
 
 1. 읽어오기
-* [Docker](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter01)
-* [Docker 사용해보기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter03)
+* [Docker 1장 Docker](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter01)
+* [Docker 3장 Docker 사용해보기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter03)
+* [Docker 4장 - 2. Dockerfile 작성하기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter04/02)
 
 2. 도커설치
 * [참고](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter02)

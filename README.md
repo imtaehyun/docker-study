@@ -8,7 +8,8 @@
 * [Docker 4장 - 2. Dockerfile 작성하기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter04/02)
 
 2. 도커설치
-* [참고](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter02)
+* 참고
+  * [Docker 2장 Docker 설치하기](http://pyrasis.com/book/DockerForTheReallyImpatient/Chapter02)
 
 3. 프로젝트 구성하기 (ex. 크롤링 프로그램) 
 
